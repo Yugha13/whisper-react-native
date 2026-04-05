@@ -246,4 +246,3 @@ Created by **Beto Moedano**
 ---
 
 **Note:** Model files (\*.bin) are not included in the repository due to size constraints. They download automatically on first use.
-# whisper-react-native
